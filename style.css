@@ -41,7 +41,9 @@ h1{
     box-shadow: 0 0 1rem rgba(0,0,0,0.2);
     font-size: 8vmin;
     color: #808000;
-    background-color: rgb(246, 246, 110)
+    background-color: rgb(246, 246, 110);
+     cursor: pointer;
+    
 
 
 }
@@ -54,6 +56,7 @@ h1{
     color:rgb(112, 87, 87);
     border-radius: 0.5rem;
     border: none;
+    cursor: pointer;
 }
 
 
@@ -64,6 +67,7 @@ h1{
     color:rgb(112, 87, 87);
     border-radius: 0.5rem;
     border: none;
+     cursor: pointer;
 }
 
 #msg{
